@@ -35,6 +35,7 @@ mathematics as a tool to create elegant and efficient algorithms.</p>
       <li>Rotate the point of view with the mouse with left and right of the mouse</li>
       <li>SPACE for the gun</li>
     </ul>
+    <h3>Demo live of the game: </h3>
     <img src="textures/demo.gif" alt="Demo live" />
 <br><br>
 <h1>💯 Final Grade : </h1> <br>
