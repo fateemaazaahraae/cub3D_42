@@ -30,7 +30,7 @@ mathematics as a tool to create elegant and efficient algorithms.</p>
     <pre>      ./cub3D_bonus ./path_of_the_level</pre>
     <p>ex :</p>
     <pre>      ./cub3D_bonus levels/pacman.cub</pre>
-    <p>The are the same as mandatory part in addition we have : </p>
+    <p>The keys are the same as mandatory part in addition we have : </p>
     <ul>
       <li>Rotate the point of view with the mouse with left and right of the mouse</li>
       <li>SPACE for the gun</li>
