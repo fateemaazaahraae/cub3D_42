@@ -37,4 +37,4 @@ mathematics as a tool to create elegant and efficient algorithms.</p>
     </ul>
 <br><br>
 <h1>💯 Final Grade : </h1> <br>
-![Screenshot from 2025-01-19 11-11-41](https://github.com/user-attachments/assets/3c8e4540-c59c-4249-abbe-015594d3f6f1)
+<img width="269" alt="Screenshot from 2025-01-19 11-11-41" src="https://github.com/user-attachments/assets/3c8e4540-c59c-4249-abbe-015594d3f6f1">
