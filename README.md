@@ -4,7 +4,6 @@ My first RayCaster with miniLibX
 <p><i>This project is inspired by the world-famous Wolfenstein 3D game, which
 was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to
 make a dynamic view inside a maze, in which you’ll have to find your way. </i><p>
-<p><i>This project is about creating a simple shell. Yes, your own little bash. <br> You will learn a lot about processes and file descriptors.</i></p><br>
 <h1>💡 Goal : </h1>
 <p>This project’s objectives are similar to all this first year’s objectives: Rigor, use of C, use
 of basic algorithms, information research etc. <br>
